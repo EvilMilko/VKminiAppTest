@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/EvilMilko/VKminiAppTest/static/css/main.981f7211.chunk.css",
-    "main.js": "/EvilMilko/VKminiAppTest/static/js/main.6b567040.chunk.js",
-    "main.js.map": "/EvilMilko/VKminiAppTest/static/js/main.6b567040.chunk.js.map",
-    "runtime-main.js": "/EvilMilko/VKminiAppTest/static/js/runtime-main.27e26fe9.js",
-    "runtime-main.js.map": "/EvilMilko/VKminiAppTest/static/js/runtime-main.27e26fe9.js.map",
-    "static/css/2.4e89ce74.chunk.css": "/EvilMilko/VKminiAppTest/static/css/2.4e89ce74.chunk.css",
-    "static/js/2.fa52c728.chunk.js": "/EvilMilko/VKminiAppTest/static/js/2.fa52c728.chunk.js",
-    "static/js/2.fa52c728.chunk.js.map": "/EvilMilko/VKminiAppTest/static/js/2.fa52c728.chunk.js.map",
-    "index.html": "/EvilMilko/VKminiAppTest/index.html",
-    "precache-manifest.5d34cfb1026791b0f700e7401ec31410.js": "/EvilMilko/VKminiAppTest/precache-manifest.5d34cfb1026791b0f700e7401ec31410.js",
-    "service-worker.js": "/EvilMilko/VKminiAppTest/service-worker.js",
-    "static/css/2.4e89ce74.chunk.css.map": "/EvilMilko/VKminiAppTest/static/css/2.4e89ce74.chunk.css.map",
-    "static/css/main.981f7211.chunk.css.map": "/EvilMilko/VKminiAppTest/static/css/main.981f7211.chunk.css.map",
-    "static/media/persik.png": "/EvilMilko/VKminiAppTest/static/media/persik.4e1ec840.png"
+    "main.css": "/VKminiAppTest/static/css/main.981f7211.chunk.css",
+    "main.js": "/VKminiAppTest/static/js/main.6b567040.chunk.js",
+    "main.js.map": "/VKminiAppTest/static/js/main.6b567040.chunk.js.map",
+    "runtime-main.js": "/VKminiAppTest/static/js/runtime-main.c0e4eded.js",
+    "runtime-main.js.map": "/VKminiAppTest/static/js/runtime-main.c0e4eded.js.map",
+    "static/css/2.4e89ce74.chunk.css": "/VKminiAppTest/static/css/2.4e89ce74.chunk.css",
+    "static/js/2.0bdb29e3.chunk.js": "/VKminiAppTest/static/js/2.0bdb29e3.chunk.js",
+    "static/js/2.0bdb29e3.chunk.js.map": "/VKminiAppTest/static/js/2.0bdb29e3.chunk.js.map",
+    "index.html": "/VKminiAppTest/index.html",
+    "precache-manifest.f681c4fbf9adcde99e6762913c1e9b52.js": "/VKminiAppTest/precache-manifest.f681c4fbf9adcde99e6762913c1e9b52.js",
+    "service-worker.js": "/VKminiAppTest/service-worker.js",
+    "static/css/2.4e89ce74.chunk.css.map": "/VKminiAppTest/static/css/2.4e89ce74.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/VKminiAppTest/static/css/main.981f7211.chunk.css.map",
+    "static/media/persik.png": "/VKminiAppTest/static/media/persik.4e1ec840.png"
   }
 }
