@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/EvilMilko/VKminiAppTest.git/static/css/main.981f7211.chunk.css",
-    "main.js": "/EvilMilko/VKminiAppTest.git/static/js/main.6b567040.chunk.js",
-    "main.js.map": "/EvilMilko/VKminiAppTest.git/static/js/main.6b567040.chunk.js.map",
-    "runtime-main.js": "/EvilMilko/VKminiAppTest.git/static/js/runtime-main.1d07d4a0.js",
-    "runtime-main.js.map": "/EvilMilko/VKminiAppTest.git/static/js/runtime-main.1d07d4a0.js.map",
-    "static/css/2.4e89ce74.chunk.css": "/EvilMilko/VKminiAppTest.git/static/css/2.4e89ce74.chunk.css",
-    "static/js/2.8ffbf51e.chunk.js": "/EvilMilko/VKminiAppTest.git/static/js/2.8ffbf51e.chunk.js",
-    "static/js/2.8ffbf51e.chunk.js.map": "/EvilMilko/VKminiAppTest.git/static/js/2.8ffbf51e.chunk.js.map",
-    "index.html": "/EvilMilko/VKminiAppTest.git/index.html",
-    "precache-manifest.33dc74738a87a18cbfa29d11e843c0e2.js": "/EvilMilko/VKminiAppTest.git/precache-manifest.33dc74738a87a18cbfa29d11e843c0e2.js",
-    "service-worker.js": "/EvilMilko/VKminiAppTest.git/service-worker.js",
-    "static/css/2.4e89ce74.chunk.css.map": "/EvilMilko/VKminiAppTest.git/static/css/2.4e89ce74.chunk.css.map",
-    "static/css/main.981f7211.chunk.css.map": "/EvilMilko/VKminiAppTest.git/static/css/main.981f7211.chunk.css.map",
-    "static/media/persik.png": "/EvilMilko/VKminiAppTest.git/static/media/persik.4e1ec840.png"
+    "main.css": "/EvilMilko/VKminiAppTest/static/css/main.981f7211.chunk.css",
+    "main.js": "/EvilMilko/VKminiAppTest/static/js/main.6b567040.chunk.js",
+    "main.js.map": "/EvilMilko/VKminiAppTest/static/js/main.6b567040.chunk.js.map",
+    "runtime-main.js": "/EvilMilko/VKminiAppTest/static/js/runtime-main.27e26fe9.js",
+    "runtime-main.js.map": "/EvilMilko/VKminiAppTest/static/js/runtime-main.27e26fe9.js.map",
+    "static/css/2.4e89ce74.chunk.css": "/EvilMilko/VKminiAppTest/static/css/2.4e89ce74.chunk.css",
+    "static/js/2.fa52c728.chunk.js": "/EvilMilko/VKminiAppTest/static/js/2.fa52c728.chunk.js",
+    "static/js/2.fa52c728.chunk.js.map": "/EvilMilko/VKminiAppTest/static/js/2.fa52c728.chunk.js.map",
+    "index.html": "/EvilMilko/VKminiAppTest/index.html",
+    "precache-manifest.5d34cfb1026791b0f700e7401ec31410.js": "/EvilMilko/VKminiAppTest/precache-manifest.5d34cfb1026791b0f700e7401ec31410.js",
+    "service-worker.js": "/EvilMilko/VKminiAppTest/service-worker.js",
+    "static/css/2.4e89ce74.chunk.css.map": "/EvilMilko/VKminiAppTest/static/css/2.4e89ce74.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/EvilMilko/VKminiAppTest/static/css/main.981f7211.chunk.css.map",
+    "static/media/persik.png": "/EvilMilko/VKminiAppTest/static/media/persik.4e1ec840.png"
   }
 }
